@@ -1,11 +1,11 @@
 DIGITAL CLOCK
 Name: Avujugari Sreeja
 Organisation: Micro IT
-Topic: Digital Clock (Java Programming)
+Topic: QUIZ GAME(Java Programming)
 Batch: 10 May to 10 June(2025)
 
 Project Title
-Digital Clock using Java
+Quiz Game using Java
 
 # Quiz Game in Java
 
