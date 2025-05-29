@@ -1,4 +1,4 @@
-DIGITAL CLOCK
+QUIZ GAME
 Name: Avujugari Sreeja
 Organisation: Micro IT
 Topic: QUIZ GAME(Java Programming)
